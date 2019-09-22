@@ -1,0 +1,26 @@
+{
+  "name": "RGB",
+  "displayName": "rgb",
+  "description": "RGB Theme",
+  "version": "0.0.1",
+  "publisher": "ntkvu",
+  "engines": {
+    "vscode": "^1.38.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ntkvu/rgb-theme-vscode.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "RGB Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/RGB Theme-color-theme.json"
+      }
+    ]
+  }
+}
