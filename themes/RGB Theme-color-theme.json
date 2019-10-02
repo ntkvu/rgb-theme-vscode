@@ -133,7 +133,7 @@
 		//"editor.snippetFinalTabstopHighlightBorder": "#525252",
 		//"editor.snippetTabstopHighlightBackground": "#7c7c7c4d",
 		//"editor.stackFrameHighlightBackground": "#ffff0033",
-		//"editorCodeLens.foreground": "#999999",
+		"editorCodeLens.foreground": "#5a7186",
 		//"editorGroup.dropBackground": "#53595d80",
 		//"editorGroupHeader.noTabsBackground": "#22292f",
 		//"editorGutter.addedBackground": "#587c0c",
