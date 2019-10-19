@@ -2,7 +2,7 @@
   "name": "RGB",
   "displayName": "RGB Theme",
   "description": "RGB Theme",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "ntkvu",
   "engines": {
     "vscode": "^1.38.0"
